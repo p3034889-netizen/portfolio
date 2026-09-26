@@ -130,7 +130,7 @@ const email = import.meta.env.VITE_EMAIL;
             <div className="mt-[22px] flex items-center gap-[13px]">
 
               <a
-                href={githubUrl}
+                href="https://github.com/p3034889-netizen"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex h-[31px] w-[31px] items-center justify-center rounded-full bg-[#fde8f1] text-[#e85b9b] transition hover:bg-[#e85b9b] hover:text-white"
