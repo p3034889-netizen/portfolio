@@ -19,7 +19,7 @@ export default function Projects() {
         "Full stack e-commerce application using Spring Boot microservices, React and MySQL.",
       icon: SiSpringboot,
       technologies: "React • Spring Boot • MySQL",
-      github: githubUrl1,
+      github: "https://github.com/p3034889-netizen/ShopEase"
     },
 
     {
@@ -28,7 +28,7 @@ export default function Projects() {
         "AI-powered interview preparation platform with resume analysis and interview questions.",
       icon: SiReact,
       technologies: "React • Spring Boot • Gemini AI",
-      github: githubUrl2,
+      github:"https://github.com/p3034889-netizen/InterviewIQ"
     },
 
 
